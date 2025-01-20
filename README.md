@@ -1,5 +1,5 @@
 
-# 👩🏻‍💻 Correa-tech
+# 🧑🏻‍💻 Correa-tech
 
 **`Desenvolvedor Front`**
 

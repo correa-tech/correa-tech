@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Front`**
 
-Me chamo Guilherme luiz, tenho 19 anos e sou natural de Joinville.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Estou aprimorando minha habilidades de desenvolvedor Front-end, mas tenho contagem de seguir no campo de fullstacks. Gosto de acreditar que cada detalhes é importante para o desenvolvimento de sites e sistemas, por isso me dedico até chegar no melhor resultado possível do que foi proposto a mim.
+Me chamo Guilherme luiz, tenho 19 anos e sou natural de Joinville. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Estou aprimorando minhas habilidades de desenvolvedor Front-end, mas tenho contagem de seguir no campo de desenvolvedor fullstacks. Gosto de acreditar que cada detalhe é importante para o desenvolvimento de sites e sistemas, por isso me dedico até chegar no melhor resultado possível do que foi proposto a mim.
 
 
 

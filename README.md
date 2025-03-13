@@ -39,7 +39,7 @@ Me chamo Guilherme luiz, tenho 19 anos e sou natural de Joinville. Atualmente es
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=correa-tech&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=correa-tech&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 ## Conecte-se comigo
 

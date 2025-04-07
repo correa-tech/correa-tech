@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Front`**
 
-Me chamo Guilherme luiz, tenho 19 anos e sou natural de Joinville. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Estou aprimorando minhas habilidades de desenvolvedor Front-end, mas tenho contagem de seguir no campo de desenvolvedor fullstacks. Gosto de acreditar que cada detalhe é importante para o desenvolvimento de sites e sistemas, por isso me dedico até chegar no melhor resultado possível do que foi proposto a mim.
+Me chamo Guilherme luiz, tenho 19 anos e sou natural de Joinville. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Estou aprimorando minhas habilidades de desenvolvedor Back-end, mas tenho contagem de seguir no campo de desenvolvedor fullstacks. Gosto de acreditar que cada detalhe é importante para o desenvolvimento de sites e sistemas, por isso me dedico até chegar no melhor resultado possível do que foi proposto a mim.
 
 
 
@@ -11,30 +11,41 @@ Me chamo Guilherme luiz, tenho 19 anos e sou natural de Joinville. Atualmente es
 
 ### 🤖 Linguagens e Tecnologias
 
+<div>
+
+
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
+    alt="JAVA"
+    title="JAVA" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
+    alt="postgreSQL"
+    title="postgreSQL" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
+    alt="SPRING"
+    title="SPRING" 
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
+
+
+<br/>
+
+</div>
+
 <br/>
 
 ### 📊 Estatísticas

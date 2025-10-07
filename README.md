@@ -9,7 +9,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Guilherme luiz, tenho 19 anos e sou natural de Joinville. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Estou aprimorando minhas habilidades de desenvolvedor Back-end, mas tenho contagem de seguir no campo de desenvolvedor fullstacks. Gosto de acreditar que cada detalhe é importante para o desenvolvimento de sites e sistemas, por isso me dedico até chegar no melhor resultado possível do que foi proposto a mim.
+Me chamo Guilherme luiz, tenho 20 anos e sou natural de Joinville. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Estou aprimorando minhas habilidades de desenvolvedor Back-end, mas tenho contagem de seguir no campo de desenvolvedor fullstacks. Gosto de acreditar que cada detalhe é importante para o desenvolvimento de sites e sistemas, por isso me dedico até chegar no melhor resultado possível do que foi proposto a mim.
 
 
 

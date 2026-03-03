@@ -1,95 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
+# Olá, eu sou o Guilherme Luiz! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Luiz+Correa;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00c853&height=200&section=header&text=Guilherme%20Luiz&fontSize=70&animation=fadeIn" />
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=correa-tech&show_icons=true&count_private=true&hide_border=true&title_color=3CB371&icon_color=3CB371&text_color=F8F8FF&bg_color=0d1117" alt="Guilherme luiz Correa github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correa-tech&layout=compact&hide_border=true&title_color=3CB371&text_color=F8F8FF&bg_color=0d1117" />
-</div>
+### 👨‍💻 Sobre mim
+Sou um desenvolvedor focado no ecossistema **Java**, construindo APIs robustas com **Spring Boot** e explorando o mundo **Fullstack** com **React**.
 
-**`Desenvolvedor Backend`**
-
-Me chamo Guilherme luiz, tenho 20 anos e sou natural de Joinville. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Estou aprimorando minhas habilidades de desenvolvedor Back-end, mas tenho contagem de seguir no campo de desenvolvedor fullstacks. Gosto de acreditar que cada detalhe é importante para o desenvolvimento de sites e sistemas, por isso me dedico até chegar no melhor resultado possível do que foi proposto a mim.
-
-
+- 📍 Baseado em **Joinville, SC**.
+- 🎓 Estudante de **ADS na Uniasselvi**.
+- 🛠️ Atualmente desenvolvendo um **Sistema SaaS para Barbearias**.
 
 ---
 
-### Main skills:
+### 🛠️ Tecnologias e Ferramentas
 
-<div>
+| Back-end | Front-end | Tools |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
+---
 
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+### 📊 Estatísticas do GitHub
 
-<img 
-    align="left" 
-    alt="postgreSQL"
-    title="postgreSQL" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=correa-tech&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correa-tech&layout=compact&theme=nord"/>
+</p>
 
-<img 
-    align="left" 
-    alt="SPRING"
-    title="SPRING" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
+---
 
-<img 
-    align="left" 
-    alt="REACT"
-    title="REACT" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-/>
-<img 
-    align="left" 
-    alt="JS"
-    title="JS" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
-/>
-
-
-
-
-<br/>
-
-</div>
-
-<br/>
-
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-<br/>
-
-
-
-## Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-luiz-corrêa-210739266/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ogui.luiz/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermeluis899@gmail.com)
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
-
+### 📫 Conecte-se comigo
+<p align="left">
+  <a href="https://https://www.linkedin.com/in/guilherme-luiz-correa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>

@@ -1,31 +1,57 @@
-# Olá, eu sou o Guilherme Luiz! 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c853&center=true&vCenter=true&width=435&lines=Software+Developer;Java+Spring+Boot;Fullstack+Explorer" alt="Typing SVG" />
-</p>
+###
 
-### 👨‍💻 Sobre mim
-Sou um desenvolvedor focado no ecossistema **Java**, construindo APIs robustas com **Spring Boot** e explorando o mundo **Fullstack** com **React**.
+<h1 align="center">Olá, eu sou o Guilherme Luiz! 👋</h1>
 
-- 📍 Baseado em **Joinville, SC**.
-- 🎓 Estudante de **ADS na Uniasselvi**.
-- 🛠️ Atualmente desenvolvendo um **Sistema SaaS para Barbearias**.
+###
 
----
+<p align="left">Me chamo Guilherme Luiz, sou de Joinville - SC</p>
 
-### 🛠️ Tecnologias e Ferramentas
+###
 
-**Back-end**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<h2 align="left">Sobre Mim</h2>
 
-**Front-end**
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+###
 
----
+<p align="left">Sou um desenvolvedor focado no ecossistema Java, construindo APIs robustas com Spring Boot e explorando o mundo Fullstack com React.<br>Estudante de ADS na Uniasselvi.<br>Gosto de criar sistemas complexo e me desafiar a cada nova linha de código.</p>
 
-### 📫 Conecte-se comigo
-<p align="left">
+###
+
+<h2 align="left">MInhas Stacks:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/guilherme-luiz-correa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
